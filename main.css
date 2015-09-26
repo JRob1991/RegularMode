@@ -120,72 +120,46 @@ ul > div {
 }
 
 .paragraph-container {
-  width: 100%;
+  width: 90%;
   margin: 0;
 }
 
-.title-1 {
+.p-title {
   letter-spacing: 4px;
   font-family: 'Oswald', sans-serif;
 }
 
-.title-2 {
+.p-title-support {
   letter-spacing: 4px;
   font-family: 'Oswald', sans-serif;
+  padding-top: 20px;
 }
 
-.title-3 {
+.p-title-plan {
   letter-spacing: 4px;
   font-family: 'Oswald', sans-serif;
+  padding-top: 20px;
 }
 
-.title-4 {
-  letter-spacing: 4px;
-  font-family: 'Oswald', sans-serif;
-}
-
-.paragraph-one {
+.paragraph-left {
   float: left;
-  width: 33%;
+  width: 35%;
   text-align: justify;
   font-size: 6px;
-  padding-left: 120px;
+  padding-left: 140px;
   padding-top: 15px;
   font-family: 'Oxygen', sans-serif;
   line-height: 220%;
   color: #6C7A80;
 }
 
-.paragraph-two {
-  float: left;
-  width: 31%;
+.paragraph-right {
+  float: right;
+  width: 35%;
   text-align: justify;
   font-size: 6px;
   padding-left: 35px;
-  padding-top: 15px;
-  font-family: 'Oxygen', sans-serif;
-  line-height: 220%;
-  color: #6C7A80;
-}
-
-.paragraph-three {
-  float: left;
-  width: 33%;
-  text-align: justify;
-  font-size: 6px;
-  padding-left: 120px;
-  padding-top: 15px;
-  font-family: 'Oxygen', sans-serif;
-  line-height: 220%;
-  color: #6C7A80;
-}
-
-.paragraph-four {
-  float: left;
-  width: 31%;
-  text-align: justify;
-  font-size: 6px;
-  padding-left: 35px;
+  padding-right: 40px;
   padding-top: 15px;
   font-family: 'Oxygen', sans-serif;
   line-height: 220%;
@@ -212,3 +186,6 @@ footer {
   color: white;
   text-decoration: underline;
 }
+
+
+
