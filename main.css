@@ -24,7 +24,7 @@ ul.tabs > li:hover {
 
 .header-hero {
   background:
-  url(https://github.com/tiy-atl-js-sept-2015/Assignments/blob/master/Assignment-04/Normal-Mode/assets/background.jpg?raw=true);
+  url(file://localhost/Users/justinrobinson/Desktop/Images/background.jpg);
   background-size: cover;
   width: 100%;
   height: 216;
