@@ -117,6 +117,37 @@ ul > div {
   list-style-type: none;
   text-align: center;
   box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+}
+
+.button-border {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #EEEEEE;
+  margin: 0; 
+  background-color: #FFFFFF;
+  font-size: 6px;
+  list-style-type: none;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.myButton {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+  background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #000000;
+  font-size: 12px;
+  padding: 2px 10px;
+  border: solid #E5E5E5 1px;
+  text-decoration: none;
 }
 
 .paragraph-container {
@@ -129,14 +160,13 @@ ul > div {
   font-family: 'Oswald', sans-serif;
 }
 
-
 .paragraph-left {
     float: left;
-    width: 30%;
+    width: 33%;
     text-align: justify;
     font-size: 7px;
-    padding-left: 132px;
-    padding-top: 15px;
+    padding-left: 120px;
+    padding-top: 30px;
     font-family: 'Oxygen', sans-serif;
     line-height: 220%;
     color: #6C7A80;
@@ -144,12 +174,12 @@ ul > div {
 
 .paragraph-right {
     float: right;
-    width: 30%;
+    width: 33%;
     text-align: justify;
     font-size: 7px;
-    padding-right: 133px;
-    padding-left: 35px;
-    padding-top: 15px;
+    padding-right: 110px;
+    padding-left: 20px;
+    padding-top: 30px;
     font-family: 'Oxygen', sans-serif;
     line-height: 220%;
     color: #6C7A80;
@@ -158,13 +188,13 @@ ul > div {
 .title-support {
   letter-spacing: 4px;
   font-family: 'Oswald', sans-serif;
-  padding-top: 10px;
+  padding-top: 35px;
 }
 
 .title-plan {
   letter-spacing: 4px;
   font-family: 'Oswald', sans-serif;
-  padding-top: 10px;
+  padding-top: 35px;
 }
 
 footer {
