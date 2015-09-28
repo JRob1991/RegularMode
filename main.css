@@ -120,25 +120,6 @@ ul > div {
   font-family: 'Lato', sans-serif;
 }
 
-<<<<<<< HEAD
-.paragraph-container {
-  width: 90%;
-  margin: 0;
-}
-
-.p-title {
-  letter-spacing: 4px;
-  font-family: 'Oswald', sans-serif;
-}
-
-.p-title-support {
-  letter-spacing: 4px;
-  font-family: 'Oswald', sans-serif;
-  padding-top: 20px;
-}
-
-.p-title-plan {
-=======
 .button-border {
   width: 100%;
   padding: 15px;
@@ -175,37 +156,11 @@ ul > div {
 }
 
 .title {
->>>>>>> master
   letter-spacing: 4px;
   font-family: 'Oswald', sans-serif;
-  padding-top: 20px;
 }
 
 .paragraph-left {
-<<<<<<< HEAD
-  float: left;
-  width: 35%;
-  text-align: justify;
-  font-size: 6px;
-  padding-left: 140px;
-  padding-top: 15px;
-  font-family: 'Oxygen', sans-serif;
-  line-height: 220%;
-  color: #6C7A80;
-}
-
-.paragraph-right {
-  float: right;
-  width: 35%;
-  text-align: justify;
-  font-size: 6px;
-  padding-left: 35px;
-  padding-right: 40px;
-  padding-top: 15px;
-  font-family: 'Oxygen', sans-serif;
-  line-height: 220%;
-  color: #6C7A80;
-=======
     float: left;
     width: 33%;
     text-align: justify;
@@ -240,7 +195,6 @@ ul > div {
   letter-spacing: 4px;
   font-family: 'Oswald', sans-serif;
   padding-top: 35px;
->>>>>>> master
 }
 
 footer {
@@ -263,6 +217,3 @@ footer {
   color: white;
   text-decoration: underline;
 }
-
-
-
